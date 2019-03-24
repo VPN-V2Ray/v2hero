@@ -4,13 +4,10 @@
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
 * 部署方法
-   https://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
+   http://github.com/onplus/v2hero/wiki/Deploy-V2ray-To-Heroku
 
 ## 建议使用heroku.yml部署  https://github.com/wangyi2005/v2ray-heroku
- 
-* 提问&建议
-   https://github.com/onplus/v2hero/issues
-   发起issue前请尽量先使用文档和搜索
+
 
 * 相关项目
    https://wsss.herokuapp.com/
